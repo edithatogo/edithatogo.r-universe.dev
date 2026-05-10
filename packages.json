@@ -1,5 +1,12 @@
-{
-  "package": "marsruntime",
-  "url": "https://github.com/edithatogo/mars",
-  "subdir": "bindings/r"
-}
+[
+  {
+    "package": "marsruntime",
+    "url": "https://github.com/edithatogo/mars",
+    "subdir": "bindings/r"
+  },
+  {
+    "package": "innovate.R",
+    "url": "https://github.com/edithatogo/innovate",
+    "subdir": "bindings/r"
+  }
+]
